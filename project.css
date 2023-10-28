@@ -47,3 +47,14 @@ img {
   padding: 20px;
   text-align: center;
 }
+@media (max-width: 768px) {
+  /* (typically phones) */
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  /* (typically tablets) */
+}
+
+@media (min-width: 1025px) {
+  /* (typically desktops) */
+}
